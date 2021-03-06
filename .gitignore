@@ -2,3 +2,5 @@ selenium_web_1/
 node_modules/
 vscode/
 index.js
+index.html
+README.md
